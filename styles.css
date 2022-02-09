@@ -39,6 +39,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+:any-link {
+  color: #EEEEEE;
+}
 
 button {
   background-color: #4ECCA3;
@@ -51,4 +54,10 @@ button {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0);
   width: 18%;
   margin-left: 41%;
+}
+
+.link {
+  color: #EEEEEE;
+  text-decoration: none;
+  padding-bottom: 2%;
 }
