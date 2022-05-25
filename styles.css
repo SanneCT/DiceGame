@@ -39,9 +39,7 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-:any-link {
-  color: #EEEEEE;
-}
+
 
 button {
   background-color: #4ECCA3;
@@ -57,7 +55,20 @@ button {
 }
 
 .link {
-  color: #EEEEEE;
-  text-decoration: none;
-  padding-bottom: 2%;
+  font-family: "Ubuntu";
+  font-size: 125%;
+  padding: 3%;
+}
+
+:any-link {
+color: #fff;
+
+}
+
+a:hover {
+color: #fff;
+}
+
+a {
+text-decoration: none;
 }
